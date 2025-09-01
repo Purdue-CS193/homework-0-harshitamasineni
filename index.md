@@ -6,8 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-#Welcome to my site
-Test
+#Harshita Masineni's First CS193 Homework 
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
